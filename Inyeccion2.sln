@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inyeccion2", "Inyeccion2\Inyeccion2.csproj", "{9D3C1630-FAF4-4D9B-9A53-A22326CE8944}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Depencia", "Depencia\Depencia.csproj", "{23D8633B-F901-4445-B06B-A0D7B27BC147}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ventas", "Ventas\Ventas.csproj", "{5BF19FA8-1658-41EA-B76B-E976EC20B1CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D3C1630-FAF4-4D9B-9A53-A22326CE8944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D3C1630-FAF4-4D9B-9A53-A22326CE8944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D3C1630-FAF4-4D9B-9A53-A22326CE8944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D3C1630-FAF4-4D9B-9A53-A22326CE8944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23D8633B-F901-4445-B06B-A0D7B27BC147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23D8633B-F901-4445-B06B-A0D7B27BC147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23D8633B-F901-4445-B06B-A0D7B27BC147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23D8633B-F901-4445-B06B-A0D7B27BC147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BF19FA8-1658-41EA-B76B-E976EC20B1CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BF19FA8-1658-41EA-B76B-E976EC20B1CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BF19FA8-1658-41EA-B76B-E976EC20B1CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BF19FA8-1658-41EA-B76B-E976EC20B1CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0E0691D-5911-491A-BB89-10994B220A2A}
+	EndGlobalSection
+EndGlobal
